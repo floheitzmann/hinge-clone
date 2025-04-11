@@ -33,9 +33,9 @@ A beautifully crafted clone of the popular dating app **Hinge**, built using **R
 </details>
 
 <details>
-  <summary>🖼️ Empty Standouts</summary>
+  <summary>🖼️ Empty Matches</summary>
   <br />
-  <img src="./screenshots/empty-standouts.png" width="500"/>
+  <img src="./screenshots/empty-matches.png" width="500"/>
 </details>
 
 <details>
